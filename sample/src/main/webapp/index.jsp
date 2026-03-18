@@ -3,4 +3,7 @@
 
 hello;
 
-dkssudgktpdy
+int i;
+샘플 1 입니다.
+
+ㄱㄱㄱㄱㄱ
